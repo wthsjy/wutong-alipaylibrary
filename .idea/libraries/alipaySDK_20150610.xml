@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alipaySDK-20150610">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Refineit-alipaylibrary/libs/alipaySDK-20150610.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
