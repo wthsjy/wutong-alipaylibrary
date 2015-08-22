@@ -18,7 +18,7 @@
 在 build.gradle 中添加:
 
 ```groovy
- compile 'com.wutong.library.alipay:Refineit-alipaylibrary:1.0'
+ compile 'com.wutong.library.alipay:Refineit-alipaylibrary:1.0.1'
 ```
 
 #### Step 2: 在Application 中初始化
